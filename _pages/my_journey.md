@@ -9,7 +9,7 @@ Collection of my research milestones and achievements. Updated occasionally.
 
 
 ----
-- Mar 2025: One paper accepted to CVPR 2025. Details soon..
+- Mar 2025: Paper [A Dataset for Semantic Segmentation in the Presence of Unknowns](https://arxiv.org/pdf/2503.22309) got accepted to CVPR 2025.
 - Feb 2025: Recieved annaul award "Godišnja nagrada Društva sveučilišnih nastavnika i drugih znanstvenika u Zagrebu mladim znanstvenicima i umjetnicima".
 - Dec 2024: I sucessfully defended my PhD thesis!
 - Sep 2024: Paper [Outlier detection by ensembling uncertainty with negative objectness](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_779/paper.pdf) accepted to BMVC'24 as oral!
