@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal page of Matej Grcić"
 title_separator          : "-"
 name                     : &name "Matej Grcić"
-description              : &description "Research Assistant & PhD Student @ University of Zagreb, FER"
+description              : &description "PhD in AI/ML | Google DeepMind"
 url                      : https://matejgrcic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matejgrcic/matejgrcic.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Matej Grcić"
   avatar           : "mg-1.png"
   bio              : "PhD in ML | Google DeepMind"
-  location         : "Zagreb, Croatia"
+  location         : "Zurich, Switzerland"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=5GWmag8AAAAJ"
