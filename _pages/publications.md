@@ -4,7 +4,18 @@ title: "Selected publications"
 permalink: /publications/
 author_profile: true
 ---
+###  Seal Your Backdoor with Variational Defense
+Ivan Sabolić, **Matej Grcić**, Siniša Šegvić <br>
+_International Conference on Computer Vision 2025_ <br>
+Paper: [ArXiv](https://arxiv.org/pdf/2503.08829) 
+<hr />
 
+
+###  Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection
+Anja Delić, **Matej Grcić**, Siniša Šegvić <br>
+_International Conference on Computer Vision 2025_ <br>
+Paper: [ArXiv](https://arxiv.org/pdf/2506.18368) 
+<hr />
 
 ###  Fine-grained Classes and How to Find Them
 **Matej Grcić**, Artyom Gadetsky, Maria Brbić <br>
